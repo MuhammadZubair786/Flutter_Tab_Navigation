@@ -5,9 +5,9 @@ A new Flutter project.
 ## Output
 
 #### Tab Home Page
-<img  alt="HTML5" width="300px" src="./output/a1.PNG" />
+<img  alt="HTML5" width="300px" src="./output/a1.jpg" />
 
-<img  alt="HTML5" width="300px" src="./output/a2.PNG" />
+<img  alt="HTML5" width="300px" src="./output/a2.jpg" />
 
 
 
