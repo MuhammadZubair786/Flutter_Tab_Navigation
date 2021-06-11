@@ -2,7 +2,18 @@
 
 A new Flutter project.
 
+## Output
+
+#### Tab Home Page
+<img  alt="HTML5" width="300px" src="./Output/a1.PNG" />
+
+<img  alt="HTML5" width="300px" src="./Output/a2.PNG" />
+
+
+
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
